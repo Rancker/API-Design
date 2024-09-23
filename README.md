@@ -6,9 +6,9 @@ This revised title emphasizes the importance of API design in the context of sof
 
 𝗔𝗿𝘁𝗶𝗰𝗹𝗲𝘀
 
-🔹 Roy Thomas Fielding Ph.D. dissertation that introduced REST architectural style in 2000: [REST architectural style](https://lnkd.in/dDE8hMD)S
+🔹 Roy Thomas Fielding Ph.D. dissertation that introduced REST architectural style in 2000: [REST Architecture Style](https://ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf)
 
-🔹 "API design guide" by Google https://lnkd.in/dzPndmbu
+🔹 "API design guide" by Google [Google](https://cloud.google.com/apis/design)
 
 🔹 "Microsoft REST API Guidelines" https://lnkd.in/d8KBQPnK
 
