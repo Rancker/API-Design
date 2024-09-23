@@ -10,21 +10,18 @@ This revised title emphasizes the importance of API design in the context of sof
 
 🔹 "API design guide" by Google [Google](https://cloud.google.com/apis/design)
 
-🔹 "Microsoft REST API Guidelines" https://lnkd.in/d8KBQPnK
+🔹 "Microsoft REST API Guidelines" [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 
-🔹 "Learn API Design" https://lnkd.in/d4323auu
+🔹 "Learn API Design" [Learn API Design](https://github.com/dwyl/learn-api-design)
 
-🔹 "Zalando RESTful API and Event Guidelines" Zalando RESTful API and Event Guidelines
+🔹 "How to design better APIs," by Ronald Blüthl [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
 
-🔹 "How to design better APIs," by 
-Ronald Blüthl https://lnkd.in/dfpPBZpb
+🔹 "How to use undocumented web APIs" by Julia Evans [How to use undocumented web APIs](https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/)
 
-🔹 "How to use undocumented web APIs" by Julia Evans https://lnkd.in/dAMtS2mc
+🔹 "How to design a RESTful API architecture from a human-language spec" " by Filipe Ximenes and Flávio Juvenal [design a RESTful API](https://www.oreilly.com/content/how-to-design-a-restful-api-architecture-from-a-human-language-spec/)
 
-🔹 "How to design a RESTful API architecture from a human-language spec" " by Filipe Ximenes and Flávio Juvenal https://lnkd.in/dJX-N2NX 
+🔹 "What are the main API Architecture Styles?" [Main API Architecture Styles](https://newsletter.techworld-with-milan.com/p/what-are-the-main-api-architecture)
 
-🔹 "What are the main API Architecture Styles?" https://lnkd.in/dbuGSHBV
+🔹 "When to use GraphQL, gRPC, and REST?" [When to use GraphQL, gRPC, and REST](https://newsletter.techworld-with-milan.com/p/when-to-use-graphql-grpc-and-rest)
 
-🔹 "When to use GraphQL, gRPC, and REST?" https://lnkd.in/dJdKSECw
-
-🔹 "What is API-First Development?" https://lnkd.in/damdR2TW
+🔹 "What is API-First Development?" [What is API-First Development](https://newsletter.techworld-with-milan.com/p/what-is-api-first-development)
