@@ -1,8 +1,7 @@
 # API-Design
 "Mastering API Design: A Foundation for Effective Software Engineering"
 
-This revised title emphasizes the importance of API design in the context of software engineering. It suggests that a strong understanding of API principles is essential for building robust and efficient systems.
-
+As software engineers, we interact with or create REST APIs daily. They serve as the primary communication channels between systems. To ensure smooth operations and avoid future headaches, mastering API design is paramount. A well-crafted API should be intuitive, concise, and resistant to misuse. Below are the links to few articles thats quite handy in the journet of API design.
 
 𝗔𝗿𝘁𝗶𝗰𝗹𝗲𝘀
 
